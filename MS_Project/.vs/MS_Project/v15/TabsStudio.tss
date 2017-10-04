@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\みそてん\LocalMisoten\MS_Project\Assets\Scripts\Common\ManageObject\IFGameStart.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\みそてん\LocalMisoten\MS_Project\Assets\Scripts\Common\ManageObject\SceneStartEvent.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\みそてん\LocalMisoten\MS_Project\Assets\Scripts\Common\ManageObject\SceneManager.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
