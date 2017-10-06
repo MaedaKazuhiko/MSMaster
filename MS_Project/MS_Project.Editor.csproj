@@ -137,6 +137,7 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\AllSceneDebugModeEditor.cs" />
     <Compile Include="Assets\Editor\DefineSupport.cs" />
+    <Compile Include="Assets\Editor\HierarchyDisplayList.cs" />
     <Compile Include="Assets\Editor\ObjectEditors\DebugContainerEditor.cs" />
   </ItemGroup>
   <ItemGroup>

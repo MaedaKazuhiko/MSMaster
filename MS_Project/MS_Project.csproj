@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\Common\Debug\DebuggableObject.cs" />
     <Compile Include="Assets\Scripts\Common\Debug\DebugLog.cs" />
     <Compile Include="Assets\Scripts\Common\Debug\DebugLogPanel.cs" />
+    <Compile Include="Assets\Scripts\Common\Debug\DebugTestScripts.cs" />
     <Compile Include="Assets\Scripts\Common\Debug\ErrorDialog.cs" />
     <Compile Include="Assets\Scripts\Common\Debug\Hobby\CameraCapture.cs" />
     <Compile Include="Assets\Scripts\Common\Debug\Hobby\test.cs" />
@@ -97,6 +98,9 @@
     <Compile Include="Assets\Scripts\Common\ManageObject\IFGameStart.cs" />
     <Compile Include="Assets\Scripts\Common\ManageObject\SceneManager.cs" />
     <Compile Include="Assets\Scripts\Common\ManageObject\SceneStartEvent.cs" />
+    <Compile Include="Assets\Scripts\Common\Popup\PopUpManager.cs" />
+    <Compile Include="Assets\Scripts\Common\Popup\PopupNormal.cs" />
+    <Compile Include="Assets\Scripts\Common\Utility\ConstString.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\symbols.xml" />
